@@ -1,0 +1,105 @@
+[
+    {
+        "author2": "Henry James",
+        "country": "Italy",
+        "price2":800,
+        "image2": "https://s2982.pcdn.co/wp-content/uploads/2022/04/The-Turn-of-the-Screw-by-Henry-James-cover.jpg.optimal.jpg",
+        "language": "Italian",
+        "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+        "pages": 928,
+        "title2": "The turn of the screw",
+        "year": 1315
+      },
+      {
+        "author2": "Lewis carrol",
+        "country": "Sumer and Akkadian Empire",
+        "price2":800,
+        "image": "https://d3ui957tjb5bqd.cloudfront.net/uploads/2018/08/23061058/Classic-Book-Covers-Redesigned-7.jpg",
+        "language": "Akkadian",
+        "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+        "pages": 160,
+        "title2": "Alices adventures wonderland",
+        "year": -1700
+      },
+      {
+        "author2": "Charles Dicken",
+        "country": "Achaemenid Empire",
+        "price2":700,
+        "image2": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/MSNBC/Components/Slideshows/_production/ss-130528-classic-covers/ss-130528-classic-covers-3.jpg",
+        "language": "Hebrew",
+        "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+        "pages": 176,
+        "title2": "A tale of two cities",
+        "year": -600
+      },
+      {
+        "author2": "Ernest Hemingway",
+        "country": "India/Iran/Iraq/Egypt/Tajikistan",
+        "price2":300,
+        "image2": "https://i.pinimg.com/originals/a9/63/88/a963885b93ce5b1da1f5d3a32f252963.jpg",
+        "language": "Arabic",
+        "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+        "pages": 288,
+        "title2": "The old man and the sea",
+        "year": 1200
+      },
+      {
+        "author2": "Sir Arthur Conan Doyle",
+        "country": "United Kingdom",
+        "price2":400,
+        "image2": "https://i.pinimg.com/originals/b9/57/3e/b9573e65e8a6fdb09d3e06432480abbd.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+        "pages": 226,
+        "title2": "Sherlock Holmes",
+        "year": 1813
+      },
+     
+      {
+        "author2": "Aldous Huxly",
+        "country": "Italy",
+        "price2":700,
+        "image2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BraveNewWorld_FirstEdition.jpg/220px-BraveNewWorld_FirstEdition.jpg",
+        "language": "Italian",
+        "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+        "pages": 1024,
+        "title2": "Brave new world",
+        "year": 1351
+      },
+      
+      {
+        "author2": "Lois lowry",
+        "country": "United Kingdom",
+        "price2":1200,
+        "image2": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1534445523-81wuaol-wfl-1534445504.jpg?crop=1xw:0.8501259445843828xh;center,top&resize=480:*",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+        "pages": 342,
+        "title2": "The Lord of the files",
+        "year": 1847
+      },
+      
+      {
+        "author2": "Sarah yasin",
+        "country": "England",
+        "price2":450,
+        "image2": "https://images-platform.99static.com//50h3BouviWDrcIPnYHeyXuWbg7Y=/227x2253:1762x3788/fit-in/500x500/99designs-contests-attachments/98/98563/attachment_98563722",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+        "pages": 544,
+        "title2": "Retreat House",
+        "year": 1450
+      },
+      
+      {
+        "author2": "Jane Austen",
+        "country": "United Kingdom",
+        "price2":800,
+        "image2": "https://media.wired.com/photos/59273bd8af95806129f51ffb/master/w_1600%2Cc_limit/8299_Alexis-Lampley_Pride-and-Prejudice_8299.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+        "pages": 320,
+        "title2": "Pride and Prejudice",
+        "year": 1904
+      }
+]

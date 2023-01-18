@@ -1,0 +1,256 @@
+[
+  {
+    "id":56,
+    "author":"Apj abdulkalam",
+    "price":500,
+    "image":"https://3.imimg.com/data3/VM/WT/MY-12313319/kalam-500x500.jpeg",
+    "title":"Wings of Fire",
+    "year":1999 
+  },
+  {
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "price":600,
+    "image": "https://summarybook.online/wp-content/uploads/2020/04/The-Divine-Comedy.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "price":450,
+    "image": "https://target.scene7.com/is/image/Target/GUEST_4e2b02f7-724d-488c-97f5-213d04546329?wid=488&hei=488&fmt=pjpeg",
+    "language": "Akkadian",
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "price":800,
+    "image": "https://files.logoscdn.com/v1/assets/1425018/optimized?w=250",
+    "language": "Hebrew",
+    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "year": -600
+  },
+  {
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "price":250,
+    "image": "https://m.media-amazon.com/images/I/81rdTlS5hPL.jpg",
+    "language": "Arabic",
+    "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+    "pages": 288,
+    "title": "One Thousand and One Nights",
+    "year": 1200
+  },
+  {
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "price":470,
+    "image": "https://kbimages1-a.akamaihd.net/ad12ce73-aa34-473e-9a53-77a50360c239/1200/1200/False/pride-prejudice-13.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "pages": 226,
+    "title": "Pride and Prejudice",
+    "year": 1813
+  },
+ 
+  {
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "price":900,
+    "image": "https://covers.openlibrary.org/b/id/7185434-L.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+    "pages": 1024,
+    "title": "The Decameron",
+    "year": 1351
+  },
+  
+  {
+    "author": "Emily Bront\u00eb",
+    "country": "United Kingdom",
+    "price":200,
+    "image": "https://m.media-amazon.com/images/I/512BafFGGQL.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+    "pages": 342,
+    "title": "Wuthering Heights",
+    "year": 1847
+  },
+  
+  {
+    "author": "Geoffrey Chaucer",
+    "country": "England",
+    "price":900,
+    "image": "https://m.media-amazon.com/images/I/51EzygqUVOL.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+    "pages": 544,
+    "title": "The Canterbury Tales",
+    "year": 1450
+  },
+  
+  {
+    "author": "Joseph Conrad",
+    "country": "United Kingdom",
+    "price":400,
+    "image": "https://m.media-amazon.com/images/I/51Y3vANZquL.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+    "pages": 320,
+    "title": "Nostromo",
+    "year": 1904
+  },
+  {
+    "author": "Charles Dickens",
+    "country": "United Kingdom",
+    "price":500,
+    "image": "https://kbimages1-a.akamaihd.net/e1543c21-16bc-4a6d-a1be-657ea07904a7/1200/1200/False/great-expectations-wisehouse-classics-with-the-original-illustrations-by-john-mclenan-1860.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+    "pages": 194,
+    "title": "Great Expectations",
+    "year": 1861
+  },
+  {
+    "author": "Denis Diderot",
+    "country": "France",
+    "price":140,
+    "image": "https://m.media-amazon.com/images/I/51Bz3p5YRSL.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+    "pages": 596,
+    "title": "Jacques the Fatalist",
+    "year": 1796
+  },
+  {
+    "author": "Alfred D\u00f6blin",
+    "country": "Germany",
+    "price":700,
+    "image": "https://theasylum.files.wordpress.com/2018/01/26863749_567901773561389_3050399680446857216_n.jpg",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+    "pages": 600,
+    "title": "Berlin Alexanderplatz",
+    "year": 1929
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "price":340,
+    "image": "https://kbimages1-a.akamaihd.net/c8f66724-16c7-4e30-ab42-2e205435eb20/1200/1200/False/crime-and-punishment-by-fyodor-dostoyevsky.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+    "pages": 551,
+    "title": "Crime and Punishment",
+    "year": 1866
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "price":760,
+    "image": "https://kbimages1-a.akamaihd.net/822bb814-70a7-4d36-8f73-9fb1d9230632/353/569/90/False/the-idiot-30.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+    "pages": 656,
+    "title": "The Idiot",
+    "year": 1869
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "price":830,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZBm3cnrF1B26QDfaaX-2NCIwZ2n-7L6WWA&usqp=CAU",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+    "pages": 768,
+    "title": "The Possessed",
+    "year": 1872
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "price":830,
+    "image": "https://m.media-amazon.com/images/I/51Bz-aHxQXL.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+    "pages": 824,
+    "title": "The Brothers Karamazov",
+    "year": 1880
+  },
+  
+  {
+    "author": "Ralph Ellison",
+    "country": "United States",
+    "price":510,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Invisible_Man_%281952_1st_ed_jacket_cover%29.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+    "pages": 581,
+    "title": "Invisible Man",
+    "year": 1952
+  },
+  {
+    "author": "Euripides",
+    "country": "Greece",
+    "price":520,
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781625587428/medea-9781625587428_hr.jpg",
+    "language": "Greek",
+    "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
+    "pages": 104,
+    "title": "Medea",
+    "year": -431
+  },
+  {
+    "author": "William Faulkner",
+    "country": "United States",
+    "price":460,
+    "image": "https://kbimages1-a.akamaihd.net/75e51a46-0ea5-418f-9418-8db62e3f7931/1200/1200/False/absalom-absalom-19.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
+    "pages": 313,
+    "title": "Absalom, Absalom!",
+    "year": 1936
+  },
+  {
+    "author": "William Faulkner",
+    "country": "United States",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Sound_and_the_Fury_%281929_1st_ed_dust_jacket%29.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
+    "pages": 926,
+    "title": "The Sound and the Fury",
+    "year": 1929
+  },
+  {
+    "author": "Gustave Flaubert",
+    "country": "France",
+    "price":500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWJudbxLaTiQoKW1HiFeR6SPVIhTM6yugfy1PYqMC6ddkP75tPUSd4oFq3QcDPmmuFBQ&usqp=CAU",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
+    "pages": 348,
+    "title": "Madame Bovary",
+    "year": 1857
+  },
+  {
+    "author": "Gustave Flaubert",
+    "country": "France",
+    "price":180,
+    "image": "https://i.ebayimg.com/images/g/6f0AAOSwpFhevOhR/s-l500.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
+    "pages": 606,
+    "title": "Sentimental Education",
+    "year": 1869
+  }
+]
