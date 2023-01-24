@@ -1,0 +1,195 @@
+[
+    {
+        "author5": "Sarah Creviston lee",
+        "country": "Italy",
+        "price5":400,
+        "image5": "https://m.media-amazon.com/images/I/51kjvCihacL.jpg",
+        "language": "Italian",
+        "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+        "pages": 928,
+        "title5": "The War Between Us",
+        "year": 1315
+      },
+      {
+        "author5": "Lauren Tarshis",
+        "country": "Sumer and Akkadian Empire",
+        "price5":400,
+        "image5": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486858725l/33931233._SY475_.jpg",
+        "language": "Akkadian",
+        "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+        "pages": 160,
+        "title5": "I survived",
+        "year": -1700
+      },
+      {
+        "author5": "Markus zusak",
+        "country": "Achaemenid Empire",
+        "price5":1000,
+        "image5": "https://www.rd.com/wp-content/uploads/2021/02/The-Book-Thief-by-Markus-Zusak-ecomm-via-amazom.com-.jpg?fit=700,700",
+        "language": "Hebrew",
+        "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+        "pages": 176,
+        "title5": "The Book Thief",
+        "year": -600
+      },
+      {
+        "author5": "Liz Kezler",
+        "country": "India/Iran/Iraq/Egypt/Tajikistan",
+        "price5":1200,
+        "image5": "https://rivetedlit.com/wp-content/uploads/2020/03/when-the-world-was-ours-9781534499652_xlg-1.jpg",
+        "language": "Arabic",
+        "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+        "pages": 288,
+        "title5": "When the World was ours",
+        "year": 1200
+      },
+      {
+        "author5": "Anthony Doerr",
+        "country": "United Kingdom",
+        "price5":300,
+        "image5": "https://m.media-amazon.com/images/I/81Vt5TgZbiL._AC._SR360,460.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+        "pages": 226,
+        "title5": "All the light we cannt see",
+        "year": 1813
+      },
+     
+      {
+        "author5": "Jonathan Hillinger",
+        "country": "Italy",
+        "price5":2000,
+        "image5": "https://m.media-amazon.com/images/I/51WzMkbHmfL.jpg",
+        "language": "Italian",
+        "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+        "pages": 1024,
+        "title5": "The Fortress",
+        "year": 1351
+      },
+      
+      {
+        "author5": "Akshat Guptha",
+        "country": "United Kingdom",
+        "price5":1500,
+        "image5": "https://m.media-amazon.com/images/I/81N4EM2zVSL._AC._SR360,460.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+        "pages": 342,
+        "title5": "The Hidden Hindu",
+        "year": 1847
+      },
+      
+      {
+        "author5": "Katte Mosse",
+        "country": "England",
+        "price5":1000,
+        "image5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0uVjHo39a2dWQW6HsiIiFB98JUSv7eSh6A&usqp=CAU",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+        "pages": 544,
+        "title5": "The city Tears",
+        "year": 1450
+      },
+      
+      {
+        "author5": "Matt Killeen",
+        "country": "United Kingdom",
+        "price5":400,
+        "image5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMteLvBIWUCg8uPiJ5WKdK4_06XDu1A-YyXw&usqp=CAU",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+        "pages": 320,
+        "title5": "Orphan Monster Spy ",
+        "year": 1904
+      },
+      {
+        "author5": "Mara Franzis",
+        "country": "United Kingdom",
+        "price5":890,
+        "image5": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/thriller-horror-book-cover-design-template-1696e010b7bd71cd79bfced90615390c_screen.jpg?ts=1637018568",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+        "pages": 194,
+        "title5": "The nigth",
+        "year": 1861
+      },
+      {
+        "author5": "Christine Dwyer Hickey",
+        "country": "France",
+        "price5":900,
+        "image5": "https://fivebooks.com/app/uploads/books/BC_1786496712-314x471.jpg",
+        "language": "French",
+        "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+        "pages": 596,
+        "title5": "The narrow Land",
+        "year": 1796
+      },
+      {
+        "author5": "Suzanne Feldman",
+        "country": "Germany",
+        "price5":300,
+        "image5": "https://images.thestar.com/w3Z-l4e4TKtYR6MDk_H1IXqc_Rg=/0x0:800x1200/1086x1629/smart/filters:cb(1641400552220):format(webp)/https://www.thestar.com/content/dam/thestar/entertainment/books/reviews/2022/01/05/4-new-historical-fiction-novels-that-defy-expectations/sisters_of_the_great_war.jpg",
+        "language": "German",
+        "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+        "pages": 600,
+        "title5": "Sisters of the Great War",
+        "year": 1929
+      },
+      {
+        "author5": "Amita Parikh",
+        "country": "Russia",
+        "price5":800,
+        "image5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgnzG-YFVFgMWAUMdnfztfwaN8RZ6JneXjQ&usqp=CAU",
+        "language": "Russian",
+        "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+        "pages": 551,
+        "title5": "The Circus Fiction",
+        "year": 1866
+      },
+      {
+        "author5": "Helen Melvyn",
+        "country": "Russia",
+        "price5":500,
+        "image5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS74uyW7whXz-djFyHhtewbXkwO_u7wkBlmg&usqp=CAU",
+        "language": "Russian",
+        "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+        "pages": 656,
+        "title5": "The Mountains sing",
+        "year": 1869
+      },
+      {
+        "author5": "William Ryan",
+        "country": "Russia",
+        "price5":300,
+        "image5": "https://rukminim1.flixcart.com/image/612/612/l2qhjm80/book/r/o/5/the-bloody-meadow-original-imageyqzvvj7ykqv.jpeg?q=70",
+        "language": "Russian",
+        "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+        "pages": 768,
+        "title5": "The Bloody Meadow",
+        "year": 1872
+      },
+      {
+        "author5": "David Liss",
+        "country": "Russia",
+        "price5":3500,
+        "image5": "https://images-na.ssl-images-amazon.com/images/I/51W-ZNSRX4L.jpg",
+        "language": "Russian",
+        "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+        "pages": 824,
+        "title5": "The Wiskey Rebels",
+        "year": 1880
+      },
+      
+      {
+        "author5": "Emma Donoghue",
+        "country": "United States",
+        "price5":900,
+        "image5": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529091113.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+        "pages": 581,
+        "title5": "Haven",
+        "year":"1952"
+      }
+  
+]

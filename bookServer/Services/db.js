@@ -2,7 +2,8 @@ const mongoose = require('mongoose')
 
 mongoose.connect('mongodb://localhost:27017/book',()=>{
     console.log('connected to MongoDB');
-})
+  
+});
 
 const Book = mongoose.model('Book',{
   id:Number,
@@ -55,16 +56,21 @@ const Horror = mongoose.model('Horror',{
   year4:Number
 })
 const Historical = mongoose.model('Historical',{
-  id:Number,
-  author:String,
-  country:String,
-  price:Number,
-  image:String,
-  language:String,
-  title:String,
-  year:Number
+  id5:Number,
+  author5:String,
+  country5:String,
+  price5:Number,
+  image5:String,
+  language5:String,
+  title5:String,
+  year5:Number
 })
-
+ const User=mongoose.model('User',{
+  username:String,
+  email:String,
+  password:Number,
+  place:String
+ })
 
 module.exports={
     Book,
@@ -72,5 +78,6 @@ module.exports={
     Classic,
     Fantacy,
     Horror,
-    Historical
+    Historical,
+    User
 }
